@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "Youtube Now",
-	"version":"0.1",
+	"name": "YouTube Now",
+	"version":"0.1.1",
 	
 	"description": "Easily search and play a YouTube video with one click",
 	"icons": {
